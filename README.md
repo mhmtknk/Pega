@@ -1,3 +1,3 @@
 # Pega
 
-[This is an external link to genome.gov](https://www.genome.gov/)
+[Pega Lab 8.8 India Web legacy](https://mhmtknk.github.io/Pega/8.8India.html)
